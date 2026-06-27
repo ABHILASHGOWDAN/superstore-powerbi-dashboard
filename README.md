@@ -1,5 +1,5 @@
 # superstore-powerbi-dashboard
-n end-to-end Business Intelligence project built in Power BI, analyzing the classic Superstore retail dataset to uncover actionable sales, profit, and customer insights across regions, categories, and time periods.
+An end-to-end Business Intelligence project built in Power BI, analyzing the classic Superstore retail dataset to uncover actionable sales, profit, and customer insights across regions, categories, and time periods.
 
 Project Overview:
 This dashboard transforms raw transactional retail data into an interactive, executive-ready reporting solution. It is designed to demonstrate proficiency in data modeling, DAX, and visual storytelling — key competencies for BI Analyst and Data Analyst roles.
